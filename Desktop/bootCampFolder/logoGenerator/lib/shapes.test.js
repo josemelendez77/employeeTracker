@@ -12,7 +12,6 @@ describe("Triangle test", () => {
   });
 });
 
-// Unit testing -> testing for a square with a purple background to render
 describe("Square test", () => {
   test("test for a square with a purple background", () => {
     const shape = new Square();
@@ -23,7 +22,6 @@ describe("Square test", () => {
   });
 });
 
-// Unit testing -> testing for a circle with a #ca00ca background to render
 describe("Circle test", () => {
   test("test for a circle with a #ca00ca background", () => {
     const shape = new Circle();
